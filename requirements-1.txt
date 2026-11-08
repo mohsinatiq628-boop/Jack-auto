@@ -1,0 +1,15 @@
+streamlit>=1.40.0
+pandas>=2.0
+requests>=2.31
+huggingface_hub>=0.30.0
+openpyxl>=3.1
+ddgs
+beautifulsoup4>=4.12
+cryptography>=42.0
+gTTS>=2.5
+moviepy==1.0.3
+imageio-ffmpeg
+Pillow>=10.0
+numpy<2
+arabic-reshaper>=3.0
+python-bidi>=0.4.2
